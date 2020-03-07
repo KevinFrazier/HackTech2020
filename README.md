@@ -1,8 +1,10 @@
 # iTat
 
-##Description
+## Description
+
 Vision Board
-##Tools
+
+## Tools
 [Vision API - ML Kit for Mobile](https://firebase.google.com/docs/ml-kit)
 [VivoReact - AR React Native Tool](https://viromedia.com/viroreact)
 [Expo](https://docs.expo.io/versions/latest/)
