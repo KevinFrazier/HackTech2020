@@ -1,8 +1,7 @@
-# iTat
+# Git GUI'd
 
 ## Description
 
-Vision Board
 
 ## Tools
 * [Vision API - ML Kit for Mobile](https://firebase.google.com/docs/ml-kit)
