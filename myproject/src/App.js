@@ -1,8 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {getRepositories} from './github'
 
 function App() {
+
+
+  getRepositories('octocat')
+
   return (
     <div className="App">
       <header className="App-header">
