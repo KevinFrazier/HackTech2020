@@ -1,13 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {getRepositories} from './github'
+import * as Github from './github'
 
 function App() {
 
 
-  getRepositories('octocat')
-
+  var results = Github.getStats("KevinFrazier", "KevyKat")
+  console.log("results")
+  console.log(results)
   return (
     <div className="App">
       <header className="App-header">
